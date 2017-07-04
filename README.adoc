@@ -20,5 +20,4 @@ Just tag the image doing:
 oc tag node-app-dev/node-app:latest node-app-test/node-app:test
 ----
 
-You'll see how the application get deployed into the test environment.
-
+You'll see how the application get deployed into the test environment..
